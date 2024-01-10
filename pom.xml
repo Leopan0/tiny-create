@@ -20,7 +20,6 @@
         <mysql-connector.version>8.0.29</mysql-connector.version>
         <jjwt.version>0.9.1</jjwt.version>
         <mybatis-plus.version>3.5.1</mybatis-plus.version>
-        <springfox-swagger.version>3.0.0</springfox-swagger.version>
         <velocity.version>2.3</velocity.version>
         <redisson.version>3.17.5</redisson.version>
     </properties>
@@ -66,12 +65,6 @@
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>${mysql-connector.version}</version>
-        </dependency>
-        <!--Swagger-UI API文档生产工具-->
-        <dependency>
-            <groupId>io.springfox</groupId>
-            <artifactId>springfox-boot-starter</artifactId>
-            <version>${springfox-swagger.version}</version>
         </dependency>
         <!--redis依赖配置-->
         <dependency>
