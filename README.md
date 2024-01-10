@@ -1,6 +1,6 @@
 # tiny-create
 
-tiny-create是一个脚手架项目，fork自[mall-tiny](https://github.com/macrozheng/mall-tiny)（有兴趣可以访问这里），目的是搭建属于自己的脚手架项目
+tiny-create是一个脚手架项目，fork自[tiny-create](https://github.com/macrozheng/tiny-create)（有兴趣可以访问这里），目的是搭建属于自己的脚手架项目
 
 ## 项目特点
 本项目优化了一起项目代码，去除与业务相关的其他代码，尽可能保留脚手架的通用性，也就是尽可能tiny

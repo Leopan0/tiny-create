@@ -10,10 +10,10 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @MapperScan({"com.tiny.*.mapper"})
 @EnableTransactionManagement
 @SpringBootApplication
-public class MallTinyApplication {
+public class TinyCreateApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MallTinyApplication.class, args);
+        SpringApplication.run(TinyCreateApplication.class, args);
     }
 
 }
